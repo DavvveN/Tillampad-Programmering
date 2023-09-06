@@ -1,6 +1,6 @@
 package com.example.birthdayapp
 
-import androidx.compose.foundation.Image
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent

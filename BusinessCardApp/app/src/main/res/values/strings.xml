@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">David Nilsson</string>
+    <string name="title">MASTER OF ALL</string>
+    <string name="phone_number">+46 724444395</string>
+    <string name="social_media">\@davidnilsson27</string>
+    <string name="mail">David@sunnebo.se</string>
+</resources>
